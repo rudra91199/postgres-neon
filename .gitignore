@@ -4,3 +4,4 @@ build/
 .env
 logger.txt
 tsconfig.json
+tsup.config.ts
